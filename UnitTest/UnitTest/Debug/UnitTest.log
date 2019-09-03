@@ -1,0 +1,8 @@
+﻿  SimpleMathTest.cpp
+c:\users\catherinerose.lim\desktop\googletest\sample\unittest\unittest\simplemathtest.cpp(28): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\catherinerose.lim\desktop\googletest\sample\unittest\unittest\simplemathtest.cpp(28): warning C4305: 'argument': truncation from 'double' to 'RawType'
+          with
+          [
+              RawType=float
+          ]
+  UnitTest.vcxproj -> C:\Users\Catherinerose.lim\Desktop\GoogleTest\Sample\ProdCode\ProdCode\Debug\UnitTest.exe
